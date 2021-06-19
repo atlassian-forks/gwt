@@ -48,7 +48,7 @@ public class ScriptTagLoadingStrategy extends LoadingStrategyBase {
 
           @Override
           public void onSuccess(Void result) {
-            cleanup(request);
+            clearAsyncCallback(request.getFragment());
           }
       }).inject();
     }

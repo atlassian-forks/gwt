@@ -20,7 +20,7 @@
 	<classpathentry kind="var" path="GWT_TOOLS/lib/jetty/jetty-9.2.14.v20151106/jetty-apache-jsp-9.2.14.v20151106.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/htmlunit/htmlunit-2.19/htmlunit-2.19.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/htmlunit/htmlunit-2.19/htmlunit-core-js-2.15.jar"/>
-	<classpathentry kind="var" path="GWT_TOOLS/lib/protobuf/protobuf-2.5.0/protobuf-java-rebased-2.5.0.jar"/>
+	<classpathentry kind="var" path="GWT_TOOLS/lib/protobuf/protobuf-3.25.9/protobuf-java-rebased-3.25.9.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/guava/guava-19.0/guava-19.0-rebased.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/gson/gson-2.6.2.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/jscomp/20160315/sourcemap-rebased.jar"/>

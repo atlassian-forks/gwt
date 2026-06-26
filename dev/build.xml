@@ -88,7 +88,7 @@
           <include name="gson/gson-2.6.2.jar"/>
           <include name="jscomp/20160315/sourcemap-rebased.jar"/>
           <include name="jsr305/jsr305.jar"/>
-          <include name="protobuf/protobuf-2.5.0/protobuf-java-rebased-2.5.0.jar"/>
+          <include name="protobuf/protobuf-3.25.9/protobuf-java-rebased-3.25.9.jar"/>
           <!-- dependencies needed for JSP support in DevMode: BEGIN -->
           <include name="jetty/jetty-9.4.44.v20210927/mortbay-apache-jsp-8.5.70.jar"/>
           <include name="jetty/jetty-9.4.44.v20210927/mortbay-apache-el-8.5.70.jar"/>
@@ -157,7 +157,7 @@
           <zipfileset src="${gwt.tools.lib}/jscomp/20160315/sourcemap-rebased.jar"/>
           <zipfileset src="${gwt.tools.lib}/jsr305/jsr305.jar"/>
           <zipfileset
-              src="${gwt.tools.lib}/protobuf/protobuf-2.5.0/protobuf-java-rebased-2.5.0.jar"/>
+              src="${gwt.tools.lib}/protobuf/protobuf-3.25.9/protobuf-java-rebased-3.25.9.jar"/>
           <!-- dependencies needed for JSP support in DevMode: BEGIN -->
           <zipfileset src="${gwt.tools.lib}/jetty/jetty-9.4.44.v20210927/mortbay-apache-jsp-8.5.70.jar"/>
           <zipfileset src="${gwt.tools.lib}/jetty/jetty-9.4.44.v20210927/mortbay-apache-el-8.5.70.jar"/>
@@ -252,7 +252,7 @@
         <pathelement location="${gwt.tools.lib}/json/android-sdk-19.1/json-android-rebased.jar"/>
         <pathelement location="${gwt.tools.lib}/jsr305/jsr305.jar"/>
         <pathelement
-            location="${gwt.tools.lib}/protobuf/protobuf-2.5.0/protobuf-java-rebased-2.5.0.jar"/>
+            location="${gwt.tools.lib}/protobuf/protobuf-3.25.9/protobuf-java-rebased-3.25.9.jar"/>
       </classpath>
     </gwt.javac>
   </target>

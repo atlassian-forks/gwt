@@ -59,7 +59,7 @@
 	<classpathentry kind="var" path="GWT_TOOLS/lib/jboss/test-harness/jboss-test-harness-api-1.0.0.jar" sourcepath="/GWT_TOOLS/lib/jboss/test-harness/jboss-test-harness-api-1.0.0-sources.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/testng/testng-5.14.1-sources.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/testng/testng-5.14.1-nojunit.jar" sourcepath="/GWT_TOOLS/lib/testng/testng-5.14.1-sources.jar"/>
-	<classpathentry kind="var" path="GWT_TOOLS/lib/protobuf/protobuf-2.5.0/protobuf-java-rebased-2.5.0.jar"/>
+	<classpathentry kind="var" path="GWT_TOOLS/lib/protobuf/protobuf-3.25.9/protobuf-java-rebased-3.25.9.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/jscomp/20160315/sourcemap-rebased.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/eclipse/org.eclipse.jdt.core_3.17.0.v20190306-2240.jar"/>
 	<classpathentry kind="var" path="GWT_TOOLS/lib/eclipse/jdtCompilerAdapter_3.17.0.v20190306-2240.jar"/>

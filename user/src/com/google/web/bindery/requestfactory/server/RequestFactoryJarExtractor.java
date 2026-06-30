@@ -909,6 +909,9 @@ public class RequestFactoryJarExtractor {
       return true;
     } catch (IOException e) {
       logger.poison("Unable to open " + internalName, e);
+    } catch (Exception e) {
+      System.err.println(e);
+      return false;
     } finally {
       if (inputStream != null) {
         try {
